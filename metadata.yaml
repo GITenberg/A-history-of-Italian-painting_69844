@@ -1,0 +1,37 @@
+_repo: A-history-of-Italian-painting_69844
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mather, Frank Jewett
+    birthdate: 1868
+    deathdate: 1953
+    gutenberg_agent_id: '4840'
+    url: http://www.gutenberg.org/2009/agents/4840
+    wikipedia: https://en.wikipedia.org/wiki/Frank_Jewett_Mather
+description: ''
+gutenberg_issued: '2023-01-20'
+identifiers:
+  gutenberg: '69844'
+language: en
+pgterms:marc904: https://archive.org/details/historyofitalian00math
+pgterms:marc905: 20200103162618matherjr
+pgterms:marc906: '1923'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United Kingdom: Stanley Paul,1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Painting -- Italy -- History'
+- !lcsh 'Painting, Italian'
+- !lcc 'ND'
+- GITenberg
+tableOfContents: 'Giotto and the new Florentine humanism -- Siena and the continuing
+  of the mediaeval style -- Masaccio and the new realism -- Fra Filippo Lippi and
+  the new narrative style -- Dawn of the golden age: Botticelli and Leonardo Da Vinci
+  -- The golden age: Raphael and Michelangelo -- Venetian painting before Titian --
+  Titian and Venetian painting in the Renaissance -- The realists and eclectics.'
+title: A history of Italian painting
+url: http://www.gutenberg.org/ebooks/69844
