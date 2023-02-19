@@ -1,5 +1,8 @@
 _repo: A-history-of-Italian-painting_69844
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69844-h/images/cover.jpg
 creator:
   author:
     agent_name: Mather, Frank Jewett
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4840
     wikipedia: https://en.wikipedia.org/wiki/Frank_Jewett_Mather
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69844#A-history-of-Italian-painting
 gutenberg_issued: '2023-01-20'
 identifiers:
   gutenberg: '69844'
